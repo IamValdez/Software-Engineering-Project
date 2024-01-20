@@ -100,7 +100,7 @@ CREATE TABLE `tblspecialization` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Dumping data for table `tblspecialization`
+-- Dumping data for table `tblspecializations`
 --
 
 INSERT INTO `tblspecialization` (`ID`, `Specialization`, `CreationDate`) VALUES 
